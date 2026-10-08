@@ -1,6 +1,6 @@
 {
-  "name": "നിങ്ങളുടെ ആപ്പിന്റെ പേര്",
-  "short_name": "കലണ്ടർ",
+  "name": "RAMEES",
+  "short_name": "Agent",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
